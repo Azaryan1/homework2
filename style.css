@@ -1,0 +1,16 @@
+*{
+  font-family:Romano;
+}
+#seconddiv{
+  text-align: center;
+}
+body{  
+background-image: url("matrix.gif");
+background: #cccccc
+}
+p{
+font-size: 22px;
+position: absolute;
+left: 600px;
+top: 400px;
+}
